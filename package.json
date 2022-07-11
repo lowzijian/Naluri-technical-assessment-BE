@@ -1,0 +1,23 @@
+{
+  "name": "space-be",
+  "version": "1.0.0",
+  "description": "space program server",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "author": "jake",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/cors": "^8.0.0",
+    "@hapi/boom": "^10.0.0",
+    "bignumber.js": "^9.0.2",
+    "fastify": "^4.2.0",
+    "toad-scheduler": "^1.6.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.3",
+    "typescript": "^4.7.4"
+  }
+}
