@@ -7,7 +7,7 @@ the most accurate value
 most accurate value that the server has calculated
 
 ### Built with
-- [Node.js](https://reactjs.org/)
+- [Node.js](https://nodejs.org/en/)
 - [Fastify](https://www.fastify.io/)
 - [bignumber.js](https://mikemcl.github.io/bignumber.js/)
 - [boom](https://hapi.dev/module/boom/)
